@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://libre-tube.github.io/images/gh-banner.png" width="auto" height="auto" alt="LibreTube">
+  <img src="https://raw.githubusercontent.com/libre-tube/LibreTube/master/assets/banners/gh-banner.png" width="auto" height="auto" alt="LibreTube">
 
   <p align="center">
   <strong>An alternative frontend for YouTube, for Android.</strong>
   </p>
   
-[![GPL-v3](https://libre-tube.github.io/assets/widgets/license-widget.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![GPL-v3](https://raw.githubusercontent.com/libre-tube/LibreTube/master/assets/widgets/license-widget.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 </div><div align="center" style="width:100%; display:flex; justify-content:space-between;">
   
   <p>
     Contact us at
   </p>
   
-[![Matrix](https://libre-tube.github.io/assets/widgets/mat-widget.svg)](https://matrix.to/#/#LibreTube:matrix.org)
-[![Mastodon](https://libre-tube.github.io/assets/widgets/mast-widget.svg)](https://fosstodon.org/@libretube)
-[![Lemmy](https://libre-tube.github.io/assets/widgets/lemmy-widget.svg)](https://feddit.rocks/c/libretube)
+[![Matrix](https://raw.githubusercontent.com/libre-tube/LibreTube/master/assets/widgets/mat-widget.svg)](https://matrix.to/#/#LibreTube:matrix.org)
+[![Mastodon](https://raw.githubusercontent.com/libre-tube/LibreTube/master/assets/widgets/mast-widget.svg)](https://fosstodon.org/@libretube)
+[![Lemmy](https://raw.githubusercontent.com/libre-tube/LibreTube/master/assets/widgets/lemmy-widget.svg)](https://feddit.rocks/c/libretube)
 
 </div>
   
@@ -23,9 +23,9 @@
   
   <p>Download the app from</p>
   
-[<img src="https://libre-tube.github.io/assets/badges/fdrload.png" alt="Get it on F-Droid" width="30%">](https://f-droid.org/en/packages/com.github.libretube/)
-[<img src="https://libre-tube.github.io/assets/badges/izzyload.png" alt="Get it on IzzyOnDroid" width="30%">](https://apt.izzysoft.de/fdroid/index/apk/com.github.libretube)<br/>
-[<img src="https://libre-tube.github.io/assets/badges/ghload.png" alt="Get it on GitHub" width="30%">](https://github.com/libre-tube/LibreTube/releases/latest)
+[<img src="https://raw.githubusercontent.com/libre-tube/LibreTube/master/assets/badges/fdrload.png" alt="Get it on F-Droid" width="30%">](https://f-droid.org/en/packages/com.github.libretube/)
+[<img src="https://raw.githubusercontent.com/libre-tube/LibreTube/master/assets/badges/izzyload.png" alt="Get it on IzzyOnDroid" width="30%">](https://apt.izzysoft.de/fdroid/index/apk/com.github.libretube)<br/>
+[<img src="https://raw.githubusercontent.com/libre-tube/LibreTube/master/assets/badges/ghload.png" alt="Get it on GitHub" width="30%">](https://github.com/libre-tube/LibreTube/releases/latest)
 
 </div>
 
@@ -40,8 +40,6 @@ LibreTube is an open source software built for learning and research purposes.
 
 ## Donate
 
-Donations can be made at:
-* <https://github.com/sponsors/Bnyro>
-* <https://liberapay.com/Bnyro>
+Please see [here](https://github.com/libre-tube/LibreTube?tab=readme-ov-file#donate) for the list of ways to financially support the project.
 
-Contributions in any form are welcome!
+If you don't want to donate, of course any other form of contributions (e.g. pull requests) are welcome too!
